@@ -2,7 +2,7 @@
 
 A clean, responsive contact form built using HTML and CSS. This form collects user information such as name, email, phone number, subject of inquiry, preferred contact method, and their message. It also includes an option to subscribe to a newsletter.
 
-## ✨ Features
+## ✨ Features 
 
 - Fully responsive and mobile-friendly
 - Clear and modern UI design
@@ -38,3 +38,4 @@ A modern web browser (Chrome, Firefox, Safari, Edge, etc.).
 project-root/
 │
 └── contact-form.html      # Main HTML file with embedded CSS
+
